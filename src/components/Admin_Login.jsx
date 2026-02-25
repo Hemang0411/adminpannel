@@ -36,7 +36,7 @@ function Admin_Login() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 flex items-center justify-center p-8">
+    <div className="min-h-screen bg-gray-50 flex items-center justify-center">
       <div className="w-full max-w-md bg-white border border-gray-200 rounded-2xl shadow-xl p-10">
         <div className="text-center mb-10">
           <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mx-auto mb-6 border-4 border-gray-200">
